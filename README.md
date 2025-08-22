@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Olá, eu sou o Vitor Alves 👋
 
-Sou estudante de **Engenharia de Software** e entusiasta em **desenvolvimento de jogos, aplicações web e automação**.  
+Sou estudante de **Engenharia de Software** e entusiasta em **desenvolvimento de software, aplicações web e automação**.  
 Gosto de aprender novas tecnologias, criar projetos práticos e compartilhar meus códigos no GitHub.  
 
 ---
