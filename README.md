@@ -1,8 +1,8 @@
 ## Hi there 👋
 # Olá, eu sou o Vitor Alves 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta em **desenvolvimento, aplicações web e automação**.  
-Gosto de aprender novas tecnologias, criar projetos práticos e compartilhar meus códigos no GitHub.  
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento web, automação e novas tecnologias. 
+Crio projetos práticos e compartilho meus códigos no GitHub.  
 
 ---
 
